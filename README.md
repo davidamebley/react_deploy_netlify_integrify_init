@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project contains a simple Homepage that contains user information. \
+Details of each user shown on the Homepage can be viewed by clicking their card shown on the page \
+
+
+# Getting Started with Create React App
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+
+
 
 ## Available Scripts
 
